@@ -1,0 +1,9 @@
+.config
+.vscode
+bin
+obj
+assets.bin
+cpp/lvledit/build
+cpp/lvledit/imgui.ini
+cpp/assets_builder
+cpp/game
